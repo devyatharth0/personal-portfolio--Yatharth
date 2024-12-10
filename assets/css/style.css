@@ -423,9 +423,9 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  gap: 15px;
-  padding-bottom: 4px;
-  padding-left: 7px;
+  gap: 10px;
+  padding-bottom: unset;
+  padding-right: 7px;
 }
 
 .social-item .social-link {
